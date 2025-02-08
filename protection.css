@@ -1,0 +1,387 @@
+body {
+    background-image: url(imaget/a2788fe1139a6fc9930fe95f84bfc5be.jpg);
+  
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+
+  .meniha{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    position: absolute;
+  }
+  .osnov_fon {
+  
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    padding-top: 290px;}
+
+
+  .osnov_fon_0 {
+    width: 1000px;
+    height: 3000px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.6;
+    margin: 0 auto;
+    margin-top: -138px;
+    position: relative;
+    margin-left: 177px;
+}
+  .cat img {
+       width: 254px;
+       margin-left: 76px;
+ 
+  }
+
+  .cat {
+    position: relative;
+    margin-top: -3118px;
+    margin-left: 70px;
+  }
+
+  .gl_st_zag {
+    position: relative;
+    text-align: center;
+    margin-top: -104px;
+    margin-left: 357px;
+  }
+
+  .shapka,  .metla {
+    position: relative;
+  }
+  .shapka{
+  display: flex;
+  position: relative;}
+  
+  .metla img {
+width: 132px;
+/* padding-left: 473px; */
+
+}
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.element {
+  display: flow;
+}
+.dveri img {
+  width: 36px;
+  position: relative;
+  margin-top: 9px;
+  margin-left: 0px;
+}
+.nazvanie {
+  color: azure;
+  position: relative;
+  font-size: 45px;
+  width: 354px;
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.entrance p {
+  color: #9E9E9E;
+  position: relative;
+  
+}
+
+.entrance p:hover {
+  color: azure;
+}
+.vhod p{
+  margin-top: -2px;
+}
+.regisr {
+  margin-top: -18px;
+  margin-left: -22px;
+}
+
+.seredina {
+  display: flex;
+    gap: 419px;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+.svitok {
+  float: left;
+  margin-left: -240px;
+  margin-top: -304px;
+  position: relative;
+
+}
+.svitok img {
+  width: 399px;
+}
+
+.gl_opisanie {
+  position: relative;
+    font-size: 20px;
+    padding-left: 159px;
+    margin-left: 64px;
+    width: 900px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: italic;
+    box-sizing: content-box;
+}
+.cnopki {
+  margin-top: -458px;
+  margin-left: 94px;
+  position: relative;
+}
+li {
+  list-style: none;
+  font-size: 29px;
+  margin-bottom: 17px;
+  transition: font-size 0.3s;
+}
+li span:hover{
+  font-size: 33px;
+  color:#9f3a07;
+}
+
+a {
+  text-decoration: none;
+}
+
+li span {
+   color: #352004;
+  font-family: "Great Vibes", cursive;
+  font-weight: 900;
+  font-style: normal;  
+   
+}
+.cart_gorod img {
+  width: 449px;
+  float: right;
+  margin-top: -15px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+.cart_text1 {
+  margin-top: 43px;
+  
+}
+.cart_gorod2 img {
+width: 310px;
+float: left;
+margin-top: -15px;
+border-radius: 25px;
+margin-right: 20px;
+}
+.mif{
+  margin-left: 400px;
+
+}
+
+.second span {
+  font-size: 25px;
+  color: #7d4d0e !important;
+  font-family: "Great Vibes", cursive;
+  font-weight: 700;
+  font-style: normal; 
+  margin-left: -23px;
+}
+.necest {
+  margin-top: -15px;
+  margin-left: -17px;
+}
+
+#menu li .second{
+	display: none;
+	
+}
+
+#menu li:hover .second {
+  display: block;
+}
+
+.dotted {
+  border-bottom: dotted 5px #d71212;
+  margin-top: 47px;
+}
+
+
+.kart_img img {
+  width: 232px;
+  margin-left: -31px;
+  position: relative;
+ 
+}
+
+
+.carysel {
+ 
+  display: flex;
+  justify-content: center;
+  height: 290px;
+  gap: 10px;
+  margin-left: -4px;
+  margin-top: 73px;
+  margin-bottom: 81px;
+  position: relative;
+ 
+  }
+.karta_bogov {
+  border-radius: 0.5rem;
+  transition: 0.5s ease-in-out;
+  cursor: pointer;
+  box-shadow: 1px 5px 15px #403802;
+  overflow: hidden;
+  width: 150px;
+  position: relative;
+
+}
+
+.karta_bogov:hover {
+  transform: scale(1.3);
+  width: 200px;
+  height: 229px;
+  border-radius: 2em;
+  margin-left: 31px;
+  margin-right: 35px;
+  position: relative;
+
+
+}
+
+
+.karta_bogov:hover {
+  
+  .nazvanie_karusel {
+  transition: 1s;
+  margin-left: -23px;
+  bottom: 40px;
+ 
+}
+}
+.nazvanie_karusel {
+  width: 212px;
+  height: 50px;
+  color: #c1ced9;
+  font-size: 25px;
+  text-align: center;
+  position: absolute;
+  bottom: -20px;
+}
+.lehi img {
+  width: 300px;
+  margin-left: -53px;
+}
+.domovo img {
+  margin-top: -4px;
+  width: 316px;
+  margin-left: -68px;
+}
+.dotted_2 {
+  border-bottom: dotted 5px #d71212;
+  margin-bottom: 59px;
+}
+.podval {
+ 
+  height: 192px;
+  margin-top: 2097px;
+ 
+  background-color: rgb(0, 0, 0);
+  opacity: 0.6;
+}
+.spis_cont {
+  width: 273px;
+   position: relative;
+   color: #fffefe;
+   padding-left: 106px;
+   padding-top: 17px;
+   float: left;
+}
+.spis_cont li {
+  font-size: 17px;
+  list-style: circle;
+  margin-bottom: 4px;
+}
+.socseti img {
+  width: 43px;
+}
+.socseti p{
+  color: #ffffff;
+}
+.socseti {
+  padding-top: 19px;
+    margin-left: 120px;
+    float: left;
+}
+.kontact {
+  color: #fffefe;
+  margin-left: 822px;
+  padding-top: 20px;
+  font-size: 20px;
+}
+.kontact p{
+  margin-bottom: -15px;
+}
+
+/* .news {
+  background-color: #473763;
+  width: 200px;
+  margin-left: 64px;
+  font-size: 27px;
+  color: #fffefe;
+  padding: 20px;
+}
+.cat_01 img{
+  width: 346px;
+ 
+  float: left;
+  margin-right: 35px;
+}
+.news p {
+  margin-bottom: 132px;
+} */
+
+.news {
+  width: 364px;
+  height: 455px;
+  background-color: #ffffff;
+  margin-top: 208px;
+  margin-left: 18px;
+  position: relative;
+  border: medium solid black;
+  border-width: 1px;
+  overflow: hidden;
+}
+.img_reclam img {
+  width: 364px;
+}
+.marquee {
+  height: 36px;
+  background-color: #293b2a;
+  margin-top: -4px;
+}
+.marquee p {
+  color: #ffffff;
+  margin-top: 7px;
+  font-size: 20px;
+}
+.text_Tur h2 {
+  text-align: center;
+    margin-top: 1px;
+    font-weight: 700;
+    font-size: 28px;
+    color: black;
+}
+.text_Tur p {
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}

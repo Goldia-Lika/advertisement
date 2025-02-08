@@ -1,0 +1,73 @@
+.osnova {
+    margin: auto;
+    width: 1000px;
+    background-color: #d1d1d1;
+}
+.znak img {
+    width: 124px;
+}
+.img_seti img {
+    width: 30px;
+}
+.shapca {
+    margin: auto;
+    display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+}
+.znak_i_nazvanie {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.nazvanie h1 {
+    margin-top: -16px;
+    color: #112f73;
+}
+.napishi img {
+    width: 137px;
+}
+.napishi {
+    display: flex    ;
+        flex-direction: column;
+        gap: 8px;
+    
+}
+.menu {
+    background-color: #8989b7;
+    height: 55px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 44px;
+    margin-top: 20px;
+    align-items: center;
+
+}
+.menu p {
+    color: cornsilk;
+    font-size: 22px;
+    align-items: center;
+}
+.img_derevnia img {
+    width: 900px;
+}
+.img_derevnia {
+    text-align: center;
+}
+.zagolovok {
+    text-align: center;
+    padding-top: 1px;
+
+}
+
+.text {
+    margin-left: 57px;
+    padding-bottom: 20px;
+}
+.den {
+    font-size: 21px;
+    font-weight: 600;
+}
+.opisanie {
+    font-size: 22px;
+}
